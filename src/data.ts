@@ -11,7 +11,7 @@ export const RefeicoesP1 = [
     id: "2",
     name: "Peixe à Moda da Pipa",
     image: "https://via.placeholder.com/150",
-    descricao: "Peixe cozido sem côco acompanhado de arroz e pirão",
+    descricao: "Peixe cozido acompanhado de arroz e pirão",
     preco: "35,00",
   },
   {
@@ -85,7 +85,8 @@ export const RefeicoesP2 = [
     id: "1",
     name: "Moqueca de Peixe",
     image: "https://via.placeholder.com/150",
-    descricao: "Acompanha arroz, pirão e farofa de dendê.",
+    descricao:
+      "Deliciosa moqueca de peixe com dendê acompanha arroz, pirão e farofa de dendê.",
     preco: "95,00",
   },
   {
@@ -101,14 +102,14 @@ export const RefeicoesP2 = [
     name: "Moqueca Mista",
     image: "https://via.placeholder.com/150",
     descricao:
-      "Moqueca de peixe e camarão acompaha arroz, pirão e farofa de dendê.",
+      "Deliciosa moqueca de peixe e camarão acompanha arroz, pirão e farofa de dendê.",
     preco: "115,00",
   },
   {
     id: "4",
     name: "Bobó de Camarão",
     image: "https://via.placeholder.com/150",
-    descricao: "Acompanha arrooz e fritas.",
+    descricao: "Acompanha arroz e fritas.",
     preco: "120,00",
   },
   {
@@ -121,7 +122,7 @@ export const RefeicoesP2 = [
   },
   {
     id: "6",
-    name: "Pos ta de Peixe com Camarão Flambado",
+    name: "Posta de Peixe com Camarão Flambado",
     image: "https://via.placeholder.com/150",
     descricao:
       "Posta de peixe acompanhada com camarões flambados no conhaque, arroz e pirão.",
@@ -178,7 +179,7 @@ export const Entradas = [
     id: "2",
     name: "Caldo de Camarão",
     image: "https://via.placeholder.com/150",
-    descricao: "Delicioso caldo de camarão ao leite de côcoo",
+    descricao: "Delicioso caldo de camarão ao leite de côco",
     preco: "25,00",
   },
   {
@@ -287,7 +288,7 @@ export const Sobremesas = [
   },
   {
     id: "4",
-    name: "Queijo Caolho com Calda de Goiaba",
+    name: "Queijo Coalho com Calda de Goiaba",
     image: "https://via.placeholder.com/150",
     descricao: " ",
     preco: "18,00",
@@ -297,24 +298,134 @@ export const Sobremesas = [
 export const Drinks = [
   {
     id: "1",
-    name: "Refeição 1",
+    name: "Coca Ks",
     image: "https://via.placeholder.com/150",
-    descricao: " deliciosa moqueca de peixe",
-    preco: "12,3",
+    descricao: "",
+    preco: "6,00",
   },
   {
     id: "2",
-    name: "Refeição 2",
+    name: "Coca Lata",
     image: "https://via.placeholder.com/150",
-    descricao: " deliciosa moqueca de peixe",
-    preco: "12,00",
+    descricao: " ",
+    preco: "7,00",
   },
   {
     id: "3",
-    name: "Refeição 3",
+    name: "Guaraná Lata",
     image: "https://via.placeholder.com/150",
-    descricao: " deliciosa moqueca de peixe",
-    preco: "13,00",
+    descricao: " ",
+    preco: "7,00",
+  },
+  {
+    id: "4",
+    name: "Fanta Lata",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "7,00",
+  },
+  {
+    id: "5",
+    name: "Guaraná Zero Lata",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "7,00",
+  },
+  {
+    id: "6",
+    name: "cocac Zero Lata",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "7,00",
+  },
+  {
+    id: "7",
+    name: "Água Mineral",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "5,00",
+  },
+  {
+    id: "8",
+    name: "Água Mineral com gás",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "5,00",
+  },
+  {
+    id: "9",
+    name: "Cerveja Devassa 600ml",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "18,00",
+  },
+  {
+    id: "10",
+    name: "Cerveja Brahama Duplo Malte  600ml",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "18,00",
+  },
+  {
+    id: "11",
+    name: "Cerveja heineken 600ml",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "22,00",
+  },
+  {
+    id: "12",
+    name: "Cerveja Heineken Longneck",
+    image: "https://via.placeholder.com/150",
+    descricao: " ",
+    preco: "12,00",
+  },
+  {
+    id: "13",
+    name: "Sucos Copo",
+    image: "https://via.placeholder.com/150",
+    descricao: "Consultar sabores disponiveis.",
+    preco: "10,00",
+  },
+  {
+    id: "14",
+    name: "Sucos Jarras",
+    image: "https://via.placeholder.com/150",
+    descricao: "Consultar sabores disponiveis.",
+    preco: "20,00",
+  },
+  {
+    id: "15",
+    name: "Sucos Laranja 500ml",
+    image: "https://via.placeholder.com/150",
+    descricao: "",
+    preco: "12,00",
+  },
+];
+
+export const Saladas = [
+  {
+    id: "1",
+    name: "Salada da Casa",
+    image: "https://via.placeholder.com/150",
+    descricao:
+      "Alface, azeitonas, ovos cozidos, feijão branco, cebola roxa, cheiro verde e molho da casa.",
+    preco: "25,00",
+  },
+  {
+    id: "2",
+    name: "Salada de Camarão",
+    image: "https://via.placeholder.com/150",
+    descricao:
+      "Folhas, camarão, abacaxi, tomates variados, cebola,pimentão e molho da casa.",
+    preco: "40,00",
+  },
+  {
+    id: "3",
+    name: "Salada Nordestina",
+    image: "https://via.placeholder.com/150",
+    descricao: "Acompanhada de carne de sol, queijo coalho e molho da casa.",
+    preco: "40,00",
   },
 ];
 
@@ -324,4 +435,5 @@ export const data = {
   Entradas,
   Sobremesas,
   Drinks,
+  Saladas,
 };

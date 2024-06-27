@@ -4,7 +4,7 @@ import { data } from "@/data";
 import React from "react";
 
 export default function page() {
-  const lista = data.RefeicoesP1;
+  const lista = data.Saladas;
   return (
     <>
       <PageTitle title="Saladas" />
