@@ -401,6 +401,27 @@ export const Drinks = [
     descricao: "",
     preco: "12,00",
   },
+  {
+    id: "16",
+    name: "Caipirinha",
+    image: "https://via.placeholder.com/150",
+    descricao: "",
+    preco: "12,00",
+  },
+  {
+    id: "17",
+    name: "Caipifruta",
+    image: "https://via.placeholder.com/150",
+    descricao: "Consultar sabores",
+    preco: "15,00",
+  },
+  {
+    id: "18",
+    name: "Caipiroska",
+    image: "https://via.placeholder.com/150",
+    descricao: "Consultar sabores",
+    preco: "13,00",
+  },
 ];
 
 export const Saladas = [
