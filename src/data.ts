@@ -30,7 +30,7 @@ export const RefeicoesP1 = [
   },
   {
     id: "5",
-    name: "Risosto de Camarão",
+    name: "Risoto de Camarão",
     image: "https://via.placeholder.com/150",
     descricao: "Acompanha tomate seco.",
     preco: "50,00",
@@ -43,13 +43,7 @@ export const RefeicoesP1 = [
       "Empanado na tapioca acompanha molho de tomate rústico e arroz aromático.",
     preco: "55,00",
   },
-  {
-    id: "7",
-    name: "Risoto Frutos do Mar",
-    image: "https://via.placeholder.com/150",
-    descricao: "Polvo, lula e camarão.",
-    preco: "60,00",
-  },
+  
   {
     id: "8",
     name: "Penne Vegano",
@@ -197,14 +191,7 @@ export const Entradas = [
     descricao: "Acompanhados de geléia de pimenta.",
     preco: "45,00",
   },
-  {
-    id: "5",
-    name: "Camarão na Taça",
-    image: "https://via.placeholder.com/150",
-    descricao:
-      "Acompanhado de um delicioso molho de queijo e chips de batata doce.",
-    preco: "50,00",
-  },
+  
   {
     id: "6",
     name: "Batata Frita",
@@ -255,19 +242,13 @@ export const Entradas = [
       "Camarões fritos no alho e óleo com casca acompanhado de molho da casa.",
     preco: "55,00",
   },
-  {
-    id: "13",
-    name: "Tirinha de MIgnon",
-    image: "https://via.placeholder.com/150",
-    descricao: "Filé mignon em  tiras acompanhado com fritas",
-    preco: "45,00",
-  },
+ 
 ];
 
 export const Sobremesas = [
   {
     id: "1",
-    name: "Panqueca doce com Sorvete",
+    name: "Panqueca Doce com Sorvete",
     image: "https://via.placeholder.com/150",
     descricao: "",
     preco: "18,00",
@@ -281,7 +262,7 @@ export const Sobremesas = [
   },
   {
     id: "3",
-    name: "Estrogonofe de Sorvete",
+    name: "Estrogonofe de Chocolate",
     image: "https://via.placeholder.com/150",
     descricao: " ",
     preco: "18,00",
