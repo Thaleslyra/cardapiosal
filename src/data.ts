@@ -148,7 +148,7 @@ export const RefeicoesP2 = [
     name: "Baião de Dois",
     image: "https://via.placeholder.com/150",
     descricao:
-      "Carne de sol com baião de dois, vinagrete, farofa e queijo coalho.",
+      "Carne de sol com baião de dois, vinagrete, farofa de cuscuz e queijo coalho.",
     preco: "100,00",
   },
   {
@@ -156,7 +156,7 @@ export const RefeicoesP2 = [
     name: "Carne de Sol à Moda Potiguar",
     image: "https://via.placeholder.com/150",
     descricao:
-      "Acompanha feijão branco, arroz, pirão de queijo, maacaxeira frita ou cozida e farofa d'água.",
+      "Acompanha feijão branco, arroz, pirão de queijo, macaxeira frita ou cozida e farofa d'água.",
     preco: "105,00",
   },
 ];
